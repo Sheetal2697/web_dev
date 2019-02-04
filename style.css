@@ -1,0 +1,28 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+body{
+	background: #D9A0A0;
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	background: black;
+	height: 40px;
+}
+
+#right-nav{
+	float:left;
+	color:white;
+}
+
+#logoblock{
+	margin: 0px;
+	padding: 0px;
+	height: 110px;
+}
+
+#rghtlogo {
+  border-radius: 50%;
+  top:50px;
+}
